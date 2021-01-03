@@ -1,2 +1,2 @@
-# web-app-angularjs
+# Name App Calculator
 Web Application using Angular Framework
